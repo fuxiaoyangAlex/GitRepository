@@ -1,1 +1,2 @@
-这个一个放在git仓库的文件
+Git is a distributed version contrls system
+Git is free software
