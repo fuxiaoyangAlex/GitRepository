@@ -1,0 +1,4 @@
+test
+$ git reset -- hard HEAD^
+$ git checkout -- test.txt
+$ git rest HEAD test.txt
